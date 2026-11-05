@@ -55,4 +55,8 @@ Contributions and suggestions are welcome. Please refer to the Wiki for contribu
 
 ## License
 
-The repository is intended to use the MIT License. See the `LICENSE` file once the license text has been added.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+

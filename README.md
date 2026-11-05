@@ -53,7 +53,7 @@ Contributions and suggestions are welcome. Please refer to the Wiki for contribu
 - **Development and Documentation:** Deven Simmonds
 - **Project:** GitHub Assignment #3
 
-## License
+
 
 
 ## License
